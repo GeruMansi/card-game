@@ -1,0 +1,152 @@
+[
+    {
+        "id": "01",
+        "img": "",
+        "values": {
+            "top": "A",
+            "left": "A",
+            "right": "8",
+            "bottom": "9"
+        }
+    },
+    {
+        "id": "02",
+        "img": "",
+        "values": {
+            "top": "8",
+            "left": "8",
+            "right": "4",
+            "bottom": "4"
+        }
+    },
+    {
+        "id": "03",
+        "img": "",
+        "values": {
+            "top": "8",
+            "left": "7",
+            "right": "8",
+            "bottom": "7"
+        }
+    },
+    {
+        "id": "04",
+        "img": "",
+        "values": {
+            "top": "1",
+            "left": "A",
+            "right": "A",
+            "bottom": "1"
+        }
+    },
+    {
+        "id": "05",
+        "img": "",
+        "values": {
+            "top": "4",
+            "left": "8",
+            "right": "A",
+            "bottom": "4"
+        }
+    },
+    {
+        "id": "06",
+        "img": "",
+        "values": {
+            "top": "9",
+            "left": "3",
+            "right": "4",
+            "bottom": "9"
+        }
+    },
+    {
+        "id": "07",
+        "img": "",
+        "values": {
+            "top": "8",
+            "left": "4",
+            "right": "4",
+            "bottom": "8"
+        }
+    },
+    {
+        "id": "08",
+        "img": "",
+        "values": {
+            "top": "5",
+            "left": "8",
+            "right": "A",
+            "bottom": "3"
+        }
+    },
+    {
+        "id": "09",
+        "img": "",
+        "values": {
+            "top": "3",
+            "left": "7",
+            "right": "7",
+            "bottom": "7"
+        }
+    },
+    {
+        "id": "10",
+        "img": "",
+        "values": {
+            "top": "2",
+            "left": "A",
+            "right": "3",
+            "bottom": "8"
+        }
+    },
+    {
+        "id": "11",
+        "img": "",
+        "values": {
+            "top": "1",
+            "left": "A",
+            "right": "4",
+            "bottom": "A"
+        }
+    },
+    {
+        "id": "12",
+        "img": "",
+        "values": {
+            "top": "2",
+            "left": "5",
+            "right": "9",
+            "bottom": "9"
+        }
+    },
+    {
+        "id": "13",
+        "img": "",
+        "values": {
+            "top": "3",
+            "left": "8",
+            "right": "8",
+            "bottom": "6"
+        }
+    },
+    {
+        "id": "14",
+        "img": "",
+        "values": {
+            "top": "8",
+            "left": "A",
+            "right": "4",
+            "bottom": "6"
+        }
+    },
+    {
+        "id": "15",
+        "img": "",
+        "values": {
+            "top": "A",
+            "left": "2",
+            "right": "A",
+            "bottom": "1"
+        }
+    }
+]
